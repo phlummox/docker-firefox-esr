@@ -11,7 +11,7 @@ GROUP_ID=${LOCAL_GROUP_ID:-1001}
 echo "Starting with UID : $USER_ID, GID : $GROUP_ID"
 
 addgroup --gid $GROUP_ID user
-adduser  --shell /bin/bash --no-create-home --disabled-password \
+adduser  --shell /bin/bash --disabled-password \
           --gid $GROUP_ID --uid $USER_ID --gecos '' user
 
 export HOME=/home/user
