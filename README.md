@@ -1,4 +1,4 @@
-# Dockerized Firefox ESR [![Linux Build Status](https://img.shields.io/travis/phlummox/docker-firefox-esr.svg?label=Linux%20build)](https://travis-ci.org/phlummox/docker-firefox-esr)&nbsp;[![Docker stars](https://img.shields.io/docker/stars/phlummox/carnap-test.svg?label=Docker%20stars)](https://cloud.docker.com/repository/docker/phlummox/firefox-esr) 
+# Dockerized Firefox ESR [![Linux Build Status](https://img.shields.io/travis/phlummox/docker-firefox-esr.svg?label=Linux%20build)](https://travis-ci.org/phlummox/docker-firefox-esr)&nbsp;[![Docker stars](https://img.shields.io/docker/stars/phlummox/carnap-test.svg?label=Docker%20stars)](https://hub.docker.com/r/phlummox/firefox-esr)
 
 Because I just hate the way web browsers insert themselves into your
 OS. And how much of a pig Chromium-based browsers are. And how broken
